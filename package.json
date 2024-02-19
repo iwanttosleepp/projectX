@@ -1,0 +1,22 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "description": "first react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwanttosleepp/projectX.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwanttosleepp/projectX/issues"
+  },
+  "homepage": "https://github.com/iwanttosleepp/projectX#readme",
+  "dependencies": {
+    "parcel": "^2.11.0"
+  }
+}
